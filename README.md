@@ -1,10 +1,10 @@
-## Alexandre's Lab cell tracking 
+# Alexandre's Lab cell tracking 
 ## Correspondent:
   * Principal investigator: Gladys Alexandre - galexan2@utk.edu
   * Lab manager: Elena Ganusov - eganusov@utk.edu
   * Author of code: Mustafa Elmas (melmas@vols.utk.edu)
   * Co-authors: Lam Vo - lvo5@vols.utk.edu (Personal: lamvo1998@gmail.com), Tanmoy Mukherjee (tmukherj@vols.utk.edu)
-# Citation
+## Citation
   * https://doi.org/10.1016/j.bpj.2019.03.006
 
 AUTHOR: Mustafa Elmas
@@ -40,7 +40,7 @@ PURPOSE:
  6. Calculate velocity, reversal frequency, acceleration, angular
  acceleration, velocity autocorrelation, Mean Square Displacement
 
-# Prerequisite:
+## Prerequisite:
 
 1) Matlab version R2019a – The version of MATLAB is important since the syntax of MATLAB may be updated due to version upgrade. Using the code in another version of MATLAB might result in unmatched syntax that will lead to errors. 
 2) MATLAB has to have the image processing toolbox, statistic toolbox, and mapping toolbox. For instruction on adding toolbox, https://www.mathworks.com/help/matlab/matlab_external/support-package-installation.html#:~:text=You%20install%20support%20packages%20using,Ons%20%3E%20Get%20Hardware%20Support%20Packages.
