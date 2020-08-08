@@ -3,7 +3,7 @@
   * Principal investigator: Gladys Alexandre - galexan2@utk.edu
   * Lab manager: Elena Ganusov - eganusov@utk.edu
   * Author of code: Mustafa Elmas (melmas@vols.utk.edu)
-  * Authors: Lam Vo - lvo5@vols.utk.edu (Personal: lamvo1998@gmail.com), Tanmoy Mukherjee^(1st) (tmukherj@vols.utk.edu)
+  * Lam Vo - lvo5@vols.utk.edu (Personal: lamvo1998@gmail.com), Tanmoy Mukherjee (tmukherj@vols.utk.edu)
 ## Citation
   * https://doi.org/10.1016/j.bpj.2019.03.006
 
