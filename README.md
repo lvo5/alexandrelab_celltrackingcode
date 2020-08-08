@@ -42,7 +42,7 @@ PURPOSE:
 
 ## Prerequisite:
 
-1) Matlab version R2019a – The version of MATLAB is important since the syntax of MATLAB may be updated due to version upgrade. Using the code in another version of MATLAB might result in unmatched syntax that will lead to errors. 
+1) MATLAB version R2019a – The version of MATLAB is important since the syntax of MATLAB may be updated due to version upgrade. Using the code in another version of MATLAB might result in unmatched syntax that will lead to errors. 
 2) MATLAB has to have the image processing toolbox, statistic toolbox, and mapping toolbox. For instruction on adding toolbox, https://www.mathworks.com/help/matlab/matlab_external/support-package-installation.html#:~:text=You%20install%20support%20packages%20using,Ons%20%3E%20Get%20Hardware%20Support%20Packages.
 
 3) A 30 seconds (anymore duration than this will result in disordered combinatorics in the tracking process that will results in shorter tracks) video for analysis has to be in good quality for quality analysis (meaning bad video = bad data). The heuristics of a good video are clear visuals of moving bacteria, the population of cell is not too dense (20-30 cells per video should be the number of cells that one shoots for), interrupted frames, and no environmental 
